@@ -1,10 +1,13 @@
-## Olá! Eu me chamo Raquel 
-- Trabalhando em um projeto como Front-end
-- Estudando JavaScript
-- Inglês intermediário
-- Sempre aprendendo novas tecnologias
+## Olá! Eu sou a Raquel 👋🏽 
+Desenvolvedora em formação, apaixonada por tecnologia e construção de interfaces que resolvem problemas reais.
 
-## Techs
+- Desenvolvendo projetos Front-end com HTML, CSS e JavaScript
+  
+- Estudando JavaScript com foco em lógica e aplicações reais
+- Inglês intermediário para leitura técnica
+- Em constante evolução e construção de projetos práticos
+
+## Techs 
 <div style="display: inline_block"><br>
 
   <img align="center" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
