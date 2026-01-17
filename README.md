@@ -4,7 +4,7 @@ Desenvolvedora em formação, apaixonada por tecnologia e construção de interf
 - Desenvolvendo projetos Front-end com HTML, CSS e JavaScript
   
 - Estudando JavaScript com foco em lógica e aplicações reais
-- Inglês intermediário para leitura técnica
+- Inglês intermediário
 - Em constante evolução e construção de projetos práticos
 
 ## Techs 
