@@ -1,8 +1,7 @@
 ## Olá! Eu sou a Raquel 👋🏽
 
-**Graduanda em Engenharia de Software na Uninter** | Desenvolvedora em formação apaixonada por tecnologia, construção de interfaces e cibersegurança.
+**Graduanda em Engenharia de Software na Uninter** | Desenvolvedora em formação apaixonada por tecnologia e cibersegurança.
 
-- **Front-end:** Desenvolvendo projetos com HTML, CSS e JavaScript.
 -  **Java:** Foco em lógica de programação, POO e aplicações reais.
 -  **Cyber Security & AI:** Certificada pelo Google em Cibersegurança e Inteligência Artificial.
 -  **Data:** Experiência prévia e acadêmica com SQL (MySQL) e NoSQL (Neo4j/DynamoDB).
