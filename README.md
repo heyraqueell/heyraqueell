@@ -2,7 +2,7 @@
   <img src="assets/matrix-banner.svg" alt="Raquel Oliveira | Cybersecurity, Red Team & Cloud Security" width="100%">
 </div>
 
-## Olá! Eu sou a Raquel 👋🏽
+# Olá! Eu sou a Raquel 👋🏽
 
 🎓 Graduanda em Engenharia de Software na UNINTER.  
 🛡️ Estagiária de Cibersegurança (Red Team) na Globo.  
@@ -12,7 +12,30 @@ Gosto de aprender na prática, explorar novas tecnologias e compartilhar minha e
 
 Atualmente, meus principais interesses são **Cibersegurança, Segurança Ofensiva e Cloud Security**, unindo meus estudos em programação, redes e computação em nuvem.
 
-### 🛠️ Tecnologias & Ferramentas
+## ☁️ AWS & Cloud Computing
+
+Estudo para a certificação AWS Certified Cloud Practitioner pela Escola da Nuvem, com laboratórios guiados envolvendo EC2, S3, IAM, VPC, RDS, EBS, Auto Scaling e Lambda.
+
+Tenho estudado serviços como EC2, S3, IAM, VPC, RDS, EBS, Auto Scaling e Lambda, com interesse especial em **Cloud Security**.
+
+## 🛡️ Cibersegurança
+
+Minha jornada em cibersegurança envolve estudos de segurança da informação, Linux, redes de computadores e segurança ofensiva. Também busco aprofundar meus conhecimentos em Red Team, explorando técnicas e ferramentas em ambientes de prática autorizados.
+
+Concluí formações introdutórias em cibersegurança, incluindo a FEBRABAN Cyber Academy e o Google Cybersecurity Foundations.
+
+## 📚 Meus estudos no GitHub
+
+📘 **[AWS Cloud Practitioner](https://github.com/heyraqueell/AWS-Cloud-Practitioner)**  
+Resumos, conceitos e anotações da minha preparação para a certificação AWS.
+
+🛡️ **[FEBRABAN Cyber Academy](https://github.com/heyraqueell/FEBRABAN-Cyber-Academy-2026)**  
+Anotações e aprendizados durante minha formação em cibersegurança.
+
+☕ **[Evolution Java](https://github.com/heyraqueell/Evolution-Java)**  
+Exercícios e registros da minha evolução em Java e programação orientada a objetos.
+
+## 🛠️ Tecnologias & Ferramentas
 
 Tenho contato com diferentes tecnologias durante meus estudos e projetos, buscando ampliar meus conhecimentos e desenvolver novas habilidades.
 
@@ -29,30 +52,7 @@ Tenho contato com diferentes tecnologias durante meus estudos e projetos, buscan
 </div>
 
 
-### ☁️ AWS & Cloud Computing
-
-Estudo para a certificação AWS Certified Cloud Practitioner pela Escola da Nuvem, com laboratórios guiados envolvendo EC2, S3, IAM, VPC, RDS, EBS, Auto Scaling e Lambda.
-
-Tenho estudado serviços como EC2, S3, IAM, VPC, RDS, EBS, Auto Scaling e Lambda, com interesse especial em **Cloud Security**.
-
-### 🛡️ Cibersegurança
-
-Minha jornada em cibersegurança envolve estudos de segurança da informação, Linux, redes de computadores e segurança ofensiva. Também busco aprofundar meus conhecimentos em Red Team, explorando técnicas e ferramentas em ambientes de prática autorizados.
-
-Concluí formações introdutórias em cibersegurança, incluindo a FEBRABAN Cyber Academy e o Google Cybersecurity Foundations.
-
-### 📚 Meus estudos no GitHub
-
-📘 **[AWS Cloud Practitioner](https://github.com/heyraqueell/AWS-Cloud-Practitioner)**  
-Resumos, conceitos e anotações da minha preparação para a certificação AWS.
-
-🛡️ **[FEBRABAN Cyber Academy](https://github.com/heyraqueell/FEBRABAN-Cyber-Academy-2026)**  
-Anotações e aprendizados durante minha formação em cibersegurança.
-
-☕ **[Evolution Java](https://github.com/heyraqueell/Evolution-Java)**  
-Exercícios e registros da minha evolução em Java e programação orientada a objetos.
-
-### 📫 Vamos nos conectar?
+## 📫 Vamos nos conectar?
 
 <div align="left">
   <a href="https://www.linkedin.com/in/raquel-oliveiras/">
