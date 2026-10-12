@@ -1,92 +1,70 @@
 <div align="center">
-  <img src="assets/matrix-banner.svg" alt="Banner em estilo terminal Matrix: Raquel Oliveira, estagiária de Cibersegurança (Red Team), Engenharia de Software, AWS e Cloud Security" width="100%">
+  <img src="assets/matrix-banner.svg" alt="Raquel Oliveira | Cybersecurity, Red Team & Cloud Security" width="100%">
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raquel-oliveiras/">LinkedIn</a>
-  &nbsp;|&nbsp;
-  Rio de Janeiro, Brasil
-  &nbsp;|&nbsp;
-  Inglês intermediário
-</p>
+## Olá! Eu sou a Raquel 👋🏽
 
-## $ sobre
+🎓 Graduanda em Engenharia de Software na UNINTER.  
+🛡️ Estagiária de Cibersegurança (Red Team) na Globo.  
+☁️ Interessada em AWS, Cloud Security e Segurança Ofensiva.
 
-Estudante de Engenharia de Software e estagiária de Cibersegurança na área de Red Team. Estou construindo minha base em segurança ofensiva e em segurança de ambientes AWS. Uso este perfil para registrar o que estudo, o que pratiquei em laboratórios e o que pretendo desenvolver.
+Gosto de aprender na prática, explorar novas tecnologias e compartilhar minha evolução na programação e na segurança da informação.
 
-> **Transparência:** ainda não tenho projetos próprios publicados em Red Team. Os laboratórios AWS listados abaixo foram realizados em atividades de formação e ambientes educacionais (laboratórios guiados), e não são projetos autorais.
+Atualmente, meus principais interesses são **Cibersegurança, Segurança Ofensiva e Cloud Security**, unindo meus estudos em programação, redes e computação em nuvem.
 
-<img src="assets/divider.svg" alt="" width="100%">
+### 🛠️ Tecnologias & Ferramentas
 
-## $ estudando
+Tenho contato com diferentes tecnologias durante meus estudos e projetos, buscando ampliar meus conhecimentos e desenvolver novas habilidades.
 
-| Frente | Situação | O que estou estudando |
-|---|---|---|
-| **Cibersegurança** | Em estudo | Fundamentos de segurança da informação, redes, tipos de ataque e defesa, governança e riscos, DevSecOps e nuvem, pelo Cyber Academy da FEBRABAN. Notas pessoais em [FEBRABAN-Cyber-Academy-2026](https://github.com/heyraqueell/FEBRABAN-Cyber-Academy-2026). |
-| **Red Team e segurança ofensiva** | Iniciando | Atuação como estagiária na área e estudo dos conceitos de pentest e Red Team. Projetos próprios: ainda não publicados. |
-| **AWS e Cloud Computing** | Em estudo | Formação técnica na Escola da Nuvem e preparação para o AWS Certified Cloud Practitioner (prova ainda não realizada). Notas pessoais em [AWS-Cloud-Practitioner](https://github.com/heyraqueell/AWS-Cloud-Practitioner). |
-| **Programação** | Em desenvolvimento | Java e programação orientada a objetos. Notas e exercícios em [Evolution-Java](https://github.com/heyraqueell/Evolution-Java). |
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60" alt="AWS"/>
+</div>
 
-**Cursos concluídos**
+<div align="center">
+  <sub>Linux • Git • GitHub • Python • Java • MySQL • HTML • CSS • AWS</sub>
+</div>
 
-- Foundations of Cybersecurity (Google). É o primeiro curso do Certificado de Cibersegurança do Google; o certificado completo não foi concluído.
-- Google AI Essentials (Google).
+### ☁️ AWS & Cloud Computing
 
-**Participação em eventos:** AWS General Immersion Day e GloboSec Week 2026.
+Estudo para a certificação AWS Certified Cloud Practitioner pela Escola da Nuvem, com laboratórios guiados envolvendo EC2, S3, IAM, VPC, RDS, EBS, Auto Scaling e Lambda.
 
-<img src="assets/divider.svg" alt="" width="100%">
+Tenho estudado serviços como EC2, S3, IAM, VPC, RDS, EBS, Auto Scaling e Lambda, com interesse especial em **Cloud Security**.
 
-## $ stack
+### 🛡️ Cibersegurança
 
-| Nível | Tecnologias |
-|---|---|
-| **Contato prático** | `Linux` (uso no dia a dia) &nbsp;·&nbsp; `Git` &nbsp;·&nbsp; `GitHub` |
-| **Estudando** | `AWS`: EC2, S3, VPC, IAM, RDS, Auto Scaling, EBS, API Gateway e Lambda (em laboratórios guiados) |
-| **Em desenvolvimento** | `Java` (iniciante, com foco em POO) &nbsp;·&nbsp; `SQL / MySQL` &nbsp;·&nbsp; `HTML / CSS` |
+Minha jornada em cibersegurança envolve estudos de segurança da informação, Linux, redes de computadores e segurança ofensiva. Também busco aprofundar meus conhecimentos em Red Team, explorando técnicas e ferramentas em ambientes de prática autorizados.
 
-<img src="assets/divider.svg" alt="" width="100%">
+Concluí formações introdutórias em cibersegurança, incluindo a FEBRABAN Cyber Academy e o Google Cybersecurity Foundations.
 
-## $ labs
+### 📚 Meus estudos no GitHub
 
-### Laboratórios AWS (guiados)
+📘 **[AWS Cloud Practitioner](https://github.com/heyraqueell/AWS-Cloud-Practitioner)**  
+Resumos, conceitos e anotações da minha preparação para a certificação AWS.
 
-Práticas realizadas em atividades de formação. A documentação detalhada de cada um (objetivo, serviços, procedimento, validação e aprendizados) está sendo organizada no repositório [AWS-Hands-On-Labs](https://github.com/heyraqueell/AWS-Hands-On-Labs).
+🛡️ **[FEBRABAN Cyber Academy](https://github.com/heyraqueell/FEBRABAN-Cyber-Academy-2026)**  
+Anotações e aprendizados durante minha formação em cibersegurança.
 
-| Serviço | O que foi praticado |
-|---|---|
-| **EC2** | Criação e configuração de instâncias |
-| **S3** | Criação de buckets e hospedagem de site estático |
-| **VPC** | Rede, sub-redes, tabelas de rotas, Security Groups e Network ACLs, além de troubleshooting de conectividade |
-| **IAM** | Usuários, grupos e políticas de permissões |
-| **RDS + EC2** | Configuração de banco de dados e conexão com instâncias EC2 |
-| **Auto Scaling** | Grupos de Auto Scaling e modelos de execução (launch templates) |
-| **EBS** | Volumes, montagem e snapshots |
-| **API Gateway + Lambda** | Integração entre serviços |
+☕ **[Evolution Java](https://github.com/heyraqueell/Evolution-Java)**  
+Exercícios e registros da minha evolução em Java e programação orientada a objetos.
 
-### Segurança ofensiva e Cloud Security
+### 📫 Vamos nos conectar?
 
-Ainda não há projetos publicados nesta área. O que pretendo registrar aqui, conforme eu avançar (**planejado, ainda não realizado**):
+<div align="left">
+  <a href="https://www.linkedin.com/in/raquel-oliveiras/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
-- Write-ups de laboratórios de segurança em plataformas de treinamento autorizadas, com foco na metodologia.
-- Laboratórios de segurança na AWS, em conta própria de testes, com documentação do ambiente, dos achados e das correções.
+---
 
-<img src="assets/divider.svg" alt="" width="100%">
-
-## $ objetivos
-
-- Aprofundar meus conhecimentos em segurança ofensiva e Red Team, sempre em ambientes autorizados.
-- Entender a AWS pela ótica da segurança: identidades e permissões, redes e configuração segura.
-- Conquistar o AWS Certified Cloud Practitioner e seguir para estudos mais avançados em nuvem.
-- Evoluir em Linux e redes de computadores.
-- Transformar meus estudos e laboratórios em material documentado e verificável neste perfil.
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## $ contato
-
-- LinkedIn: [linkedin.com/in/raquel-oliveiras](https://www.linkedin.com/in/raquel-oliveiras/)
-
-```text
-$ echo "em evolução constante"
-em evolução constante
-```
+<div align="center">
+  <i>Aprendendo, compartilhando e evoluindo um passo de cada vez. 💻</i>
+</div>
